@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "War_Drive", "War_Drive\War_Drive.pyproj", "{F4349007-7B00-4233-87BA-D4A8CD91837C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4349007-7B00-4233-87BA-D4A8CD91837C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4349007-7B00-4233-87BA-D4A8CD91837C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4349007-7B00-4233-87BA-D4A8CD91837C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4349007-7B00-4233-87BA-D4A8CD91837C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B1018B5-D914-490F-82F5-766A1760A5B9}
+	EndGlobalSection
+EndGlobal
